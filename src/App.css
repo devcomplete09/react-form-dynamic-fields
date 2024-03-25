@@ -1,0 +1,40 @@
+.myInput {
+  width: 95%;
+  margin: 0 auto;
+  display: inline-block;
+  margin-bottom: 5px;
+  border: 1px solid lightcoral;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.myBtn {
+  width: 98%;
+  display: inline-block;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  background-color: palegreen;
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.mySelect {
+  width: 98%;
+  display: inline-block;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  border: 1px solid lightcoral;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.myForm {
+  width: 50%;
+  background-color: lightgoldenrodyellow;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 10px;
+  border-radius: 5px;
+}
